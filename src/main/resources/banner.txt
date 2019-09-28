@@ -1,0 +1,15 @@
+
+
+
+
+
+  NNN     NNN     NNNNNNNN     NNNNNNNN
+  NNNNN   NNN    NNNN  NNNN   NNN
+  NNNNNN  NNN          NNNN   NNN NNNN
+  NNN NNN NNN       NNNNNN    NNNN  NNNN
+  NNN  NNNNNN     NNNNN       NNN    NNN
+  NNN    NNNN    NNN          NNNN  NNNN
+  NNN     NNN    NNNNNNNNNN    NNNNNNNN
+
+                 ${AnsiColor.GREEN}:: Varadharajan's Code Challenge on 27-Sept-2019 ${Ansi.DEFAULT}
+                    ${application.formatted-version}
